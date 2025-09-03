@@ -1,7 +1,7 @@
 {
-  "name": "hitori",
+  "name": "zxweenbot",
   "version": "1.0.8",
-  "description": "Bot WhatsApp Using Lib Baileys Multi Device",
+  "description": "Hi saya adalah assisten Billal",
   "main": "start.js",
   "type": "commonjs",
   "scripts": {
