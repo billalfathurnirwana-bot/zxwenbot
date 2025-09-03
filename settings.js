@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6281215693316','6285267262805'] //['628','628'] 2 owner atau lebih
-global.author = 'Billal Fath'
+global.owner = ['6281215693316','6285267262805','6282318999818'] //['628','628'] 2 owner atau lebih
+global.author = 'Billalfathrnrwn_'
 global.botname = 'Zxween Bot'
-global.packname = 'Bot WhatsApp'
+global.packname = 'Hi saya adalah Assisten nya Billal'
 global.listprefix = ['+','!','.']
 
 /*
@@ -90,5 +90,6 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 });
+
 
 
