@@ -2,7 +2,7 @@ process.on('uncaughtException', console.error)
 process.on('unhandledRejection', console.error)
 
 /*
-	* Create By Naze
+	* Create By Billal Fathur
 	* Follow https://github.com/nazedev
 	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
 */
@@ -4588,3 +4588,4 @@ fs.watchFile(file, () => {
 	delete require.cache[file]
 	require(file)
 });
+
