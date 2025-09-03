@@ -10,7 +10,7 @@
 <a href="https://github.com/nazedev/hitori/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/nazedev/hitori?label=PullRequest&color=red&style=flat-square"></a>
 </div>
 
-This script is created by [Nazedev](https://github.com/nazedev) using Node.js and the [WhiskeySocket/Baileys](https://github.com/WhiskeySockets/Baileys) library. The script is currently in the development phase (BETA), so there may still be some errors that can be ignored. If errors persist even after debugging, please contact the owner for assistance. ~ By Naze
+This script is created by [BillalFath](https://github.com/nazedev) using Node.js and the [WhiskeySocket/Baileys](https://github.com/WhiskeySockets/Baileys) library. The script is currently in the development phase (BETA), so there may still be some errors that can be ignored. If errors persist even after debugging, please contact the owner for assistance. ~ By Naze
 
 ## Contributor
 
@@ -19,7 +19,7 @@ This script is created by [Nazedev](https://github.com/nazedev) using Node.js an
 - [Dani](https://github.com/nazedev) (Penyumbang Code)
 
 #### Join Group
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://chat.whatsapp.com/JqE3f8onFyiCfBg0CYYyTv?mode=ems_copy_t] ) 
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JqE3f8onFyiCfBg0CYYyTv?mode=ems_copy_t ) 
 
 ---
 #### Deploy to Heroku
@@ -87,7 +87,7 @@ node .
 License: [MIT](https://choosealicense.com/licenses/mit/)
 
 #### Support Me
-- [Saweria]([https://saweria.co/zxwennitcuan])
+- [Saweria](https://saweria.co/zxwennitcuan)
 
 ## Thanks to
 
@@ -95,4 +95,5 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 | --- | --- | --- | --- |
 
 | [NazeDev](https://github.com/nazedev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) |
+
 
